@@ -1,0 +1,17 @@
+Check,Before,After
+"Expression rows (probe-derived rows before, unique genes after)",21225,13237
+Distinct non-placeholder gene symbols,13237,13237
+Samples,86,86
+Normal samples,43,43
+Tumor samples,43,43
+Complete patient pairs,43,43
+Missing expression cells,0,0
+Nonnumeric expression cells,0,0
+Infinite or negative expression cells,0,0
+Blank required metadata fields,0,0
+Unmatched sample IDs across files,0,0
+Duplicate sample IDs,0,0
+Exact duplicate sample profiles,0,0
+Exact duplicate expression rows with the same symbol,0,0
+Extra valid rows with a repeated gene symbol,7988,0
+Missing or placeholder gene symbols,0,0

@@ -1,0 +1,6 @@
+Operation,Rows_or_samples_affected
+Exclude blank or placeholder gene symbols,0
+Exclude exact duplicate rows (same symbol and all intensities),0
+Collapse surplus rows by per-sample same-symbol median,7988
+Exclude constant gene-level rows,0
+Samples excluded,0
