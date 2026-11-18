@@ -1,0 +1,9 @@
+FDR<,|log2FC|>=,direction,n_genes,n_sig_sets,top3
+0.05,1.0,up_in_tumour,60,3,Estrogen Response Late; E2F Targets; G2-M Checkpoint
+0.05,1.0,down_in_tumour,156,5,Adipogenesis; Fatty Acid Metabolism; Myogenesis
+0.05,0.0,up_in_tumour,777,6,Myc Targets V1; G2-M Checkpoint; E2F Targets
+0.05,0.0,down_in_tumour,1929,12,Adipogenesis; Hypoxia; Fatty Acid Metabolism
+0.05,1.5,up_in_tumour,16,1,Estrogen Response Late
+0.05,1.5,down_in_tumour,62,2,Adipogenesis; Fatty Acid Metabolism
+0.01,1.0,up_in_tumour,58,3,Estrogen Response Late; E2F Targets; G2-M Checkpoint
+0.01,1.0,down_in_tumour,155,5,Adipogenesis; Fatty Acid Metabolism; Myogenesis
